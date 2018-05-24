@@ -1,0 +1,3 @@
+cabecera (parámetros: {título})
+	fondo: rojo
+	título: {título}
