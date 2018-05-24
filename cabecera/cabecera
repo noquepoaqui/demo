@@ -1,3 +1,4 @@
-cabecera (parámetros: {título})
+cabecera (parámetros: {título}, {subtítulo})
 	fondo: rojo
 	título: {título}
+	subtítulo: {subtítulo}
