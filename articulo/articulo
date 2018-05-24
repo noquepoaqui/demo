@@ -1,0 +1,3 @@
+articulo: (parámetros: {título}, {texto})
+	título: {título}
+	texto: {texto}
