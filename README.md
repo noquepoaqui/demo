@@ -9,7 +9,6 @@ versión 1.0.0:
 	-> debe mostrar un texto
 5. Crear un componente pie de página
 	-> debe mostrar el año actual.
-	-> debe tener fondo
 	-> debe tener el fondo de color verde
 6. Añadir cabecera, artículo y pie de página a la web
 	-> el título de la cabecera debe ser 'Trabajando en equipo'
