@@ -1,3 +1,17 @@
+importar articulo
+importar cabecera
+importar pie-de-pagina
+
 esqueleto página web:
 	título: Trabajando en equipo
 	usa: bootstrap
+	body:
+		cabecera: 
+			título: Trabajando en equipo
+		artículo:
+			título: Usando GIT para vivir mejor
+			texto:
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas purus id sem interdum feugiat. Maecenas iaculis lacus sit amet mi eleifend auctor. Sed at posuere felis, ac posuere sem. Phasellus fringilla congue elit posuere cursus. Curabitur orci diam, euismod in egestas quis, lobortis eu ante. Donec at ipsum diam. Nunc sagittis tortor orci, vitae malesuada libero congue et.
+
+				Nam dapibus ipsum eget leo fermentum malesuada. Donec sit amet nunc ut eros dictum tincidunt. Proin feugiat ex sit amet quam dictum, auctor euismod justo ultricies. Phasellus at vulputate ligula. Nunc condimentum libero sit amet metus egestas, sit amet viverra lorem laoreet. Duis fermentum fermentum quam, sed consectetur ante. Morbi porttitor sodales enim. Sed accumsan justo vitae augue mattis, et blandit lorem vestibulum. Fusce posuere ornare felis nec tempus. Integer nec arcu mauris. Phasellus nec ipsum non tortor convallis pellentesque eu quis augue. Nam sem felis, ultricies nec lacus a, varius faucibus felis.
+		pie-de-pagina
