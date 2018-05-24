@@ -8,6 +8,7 @@ esqueleto página web:
 	body:
 		cabecera: 
 			título: Trabajando en equipo
+			subtítulo: ¿Qué equipo?
 		artículo:
 			título: Usando GIT para vivir mejor
 			texto:
